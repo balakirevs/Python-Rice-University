@@ -1,0 +1,1 @@
+Python Coursera Rice University course. My assignements and solutions.
